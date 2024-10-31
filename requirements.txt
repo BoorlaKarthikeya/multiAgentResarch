@@ -1,0 +1,3 @@
+streamlit
+swarm
+duckduckgo_search
